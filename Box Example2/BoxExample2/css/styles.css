@@ -1,0 +1,83 @@
+
+h1 {
+	font-size: 48px;
+}
+.post-heading {
+	color: #006633;
+	font-size: 1.8em;	
+	margin-bottom: 0px;
+}
+#main-nav	{
+	font-size: 1.3em;	
+	line-height: 1.4em;
+}
+blockquote	{
+	color: #222;
+	font-size: 1.3em;
+	font-style: italic;
+	margin-top: 0px;
+	margin-left: 200px;
+}
+#main-nav a, #main-nav a:visited {
+	text-decoration: none;
+}
+#main-nav a:hover, #main-nav a:focus, #main-nav a:active {
+	text-decoration: underline;
+}
+.hero-image	{
+float:left;
+}
+article p {
+	text-align: justify;
+	text-indent: 25px;
+	margin: 10px;
+	padding: 10px;
+
+}
+
+.article-thumbs	{
+		text-align: center;
+		clear:both;
+}
+header {
+	padding: 20px 0px 10px; 
+	background-color: #ffcc00;
+	padding-left: 25px;
+	
+
+}
+.container{
+	width: 1180px;
+	margin: auto;
+}
+#content-left
+{
+	padding: 0px 5px;
+	width: 60%;
+	float: left;
+	margin-bottom: 30px;
+}
+.post{
+	border-right: 5px solid #063;
+}
+header h1{
+	margin-bottom: 0px;
+	padding-left: 25px;
+}
+#sidebar{
+	width: 32%;
+	float: left;
+	background-color: #3cf;
+	color: #333333;
+	padding: 15px;
+	margin-top: 75px;
+	min-height: 300px;
+}
+footer{
+	clear: both;
+	padding: 20px 0px;
+	border-top: 5px groove #fc0;
+}
+.article-thumbs img{
+	border-radius: 50%;
+}
