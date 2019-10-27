@@ -1,0 +1,80 @@
+h2 {
+color: gray;
+font-size: 55px;
+}
+
+#blog{
+    width: 1900px;
+    height: 200px;
+}
+
+div {
+    width: 320px;
+    padding: 20px 10px 20px;
+    margin: 0;
+    background: lightgray;
+    color: #2090ee;
+    font-size: 40px;
+    float: right;
+    
+  }
+main{
+    padding-top: 20px 0px 10px;
+    width: 1000px;
+    margin: 0;
+  }
+
+#lake{
+      float: right;
+  }
+
+body{
+      font-size: 30px;
+  }
+
+p{
+    text-indent: 5%; 
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+#festival1{
+height:200px;
+width: 200px;
+}
+
+#festival2{
+    height:200px;
+    width: 200px;
+    float: right;
+}
+
+#festival3{
+    height:200px;
+    width: 200px;
+    position: absolute;
+    top: 1630px;
+    right: 100px;
+    left: 400px;
+
+}
+
+blockquote{
+    text-align: center;
+    color: gray;
+    font-family: 'Courgette', cursive;
+}
+
+#costume{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    height: 700px;
+}
+
+footer{
+    font-size: 30px;
+}
