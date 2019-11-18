@@ -1,10 +1,10 @@
 h1{
-	color: rgb(51, 255, 211);
+	color: black;
 	font-size: 70px;
 
 }
 h2{
-	color: #ff5733;
+	color: green;
 	font-size: 50px;
 }
 h3{
@@ -15,12 +15,12 @@ h3{
 	margin: 0;
 }
 header{
-	background: #f60;
+	background: green;
 }
 #sidebar{
 	width: 20%;
 	float:left;
-	background: #3cf;
+	background: cadetblue;
 	color: #333;
 	padding: 15px;
 	min-height: 300px;
@@ -29,11 +29,11 @@ header{
 }
 footer{
 	clear: both;
-	padding:20px 0px;
-	border-top: 5px groove #ffcc00;
+	padding:0px 0px;
 	position: relative;
 	top: 150px;
 	font-size: 30px;
+	width: 200px;
 }
 .pic-thumbs{
 	text-align: center;
@@ -41,14 +41,15 @@ footer{
 	
 }
 #main{
-	background: aquamarine;
+	background: silver;
 	width: 1500px;
+
 }
 main:hover{
 	color:#333;
 }
 main:focus{
-	color:#6c2;
+	color:rgb(37, 34, 204);
 }
 main:active{
 	color:crimson;
@@ -80,11 +81,11 @@ blockquote{
 	position: relative;
   }
 .List{
-	border: 20px solid green;
+	border: 20px solid blue;
 	font-size: 30px;
 	padding: 10px;
 	margin: 10px;
-	background-color: yellow;
+	background-color: red;
 	width: 175px;	
 }
 #content{
@@ -97,10 +98,37 @@ blockquote{
 }
 #Pictures{
 	border: 10px solid darkturquoise;
-	background-color: deeppink;
+	background-color: green;
 	padding: 50px;
 	margin: 20px;
 	height: 700px;
 	width: 1300px;
 
+}
+#sidebar ol{
+	font-size: 30	px;
+}
+.container{
+	border-bottom: yellow;
+
+}
+.post-heading{
+	border-bottom: solid;
+	border-bottom-color: blue;
+	border-width: 5px;
+	width: 40%;
+	color: red;
+}
+#sidebar li{
+	font-size: 30px;
+}
+.List li a{
+	color: white;
+}
+.List li a:focus{
+	color: purple;
+	
+}
+.List li a:hover{
+	color: purple;
 }

@@ -1,0 +1,17 @@
+#box{
+    border: 20px solid orangered;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font: bold;
+    width: 28%;
+}
+
+.main-nav li a{
+    font-size: 20px;
+}
+#main p{
+    font: bold;
+    font-size: 20px;
+
+}

@@ -1,0 +1,10 @@
+#box{
+    border: 20px solid orangered;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+
+body li a{
+    font-size: 20px;
+}
