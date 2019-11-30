@@ -1,0 +1,27 @@
+#banner{
+    height: 200px;
+    background-image: url('../img/games.jpeg');
+    background-repeat: repeat-x;
+    background-size: contain;
+    background-position: center;
+}
+
+.platform-img {
+    height: 150px;
+    width: auto;
+    margin: 0 auto;
+}
+
+footer ul li{
+    list-style: none;
+    display: inline-block;
+    font-size: 36px;
+
+}
+footer ul li a{
+    color: white;
+}
+
+footer ul li a:hover{
+    color: rgb(0, 4, 255);
+}
