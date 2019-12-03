@@ -25,3 +25,24 @@ footer ul li a{
 footer ul li a:hover{
     color: rgb(0, 4, 255);
 }
+#platform-Words{
+    border: 10px solid blue;
+    border-radius: 80px;
+    background-color:rgb(153, 153, 153);
+    text-align: center;
+    position: relative;
+    min-height: 400px;
+    line-height: 400px;
+}
+
+#platform-Words h3 {
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+}
+#top-sellers ol li{
+    font-size: 20px;
+}
+#platforms p{
+    font-size: 20px;
+}
