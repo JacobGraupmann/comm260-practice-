@@ -46,3 +46,19 @@ footer ul li a:hover{
 #platforms p{
     font-size: 20px;
 }
+#platform-about{
+    border: 10px solid green;
+    border-radius: 80px;
+    background-color:rgb(153, 153, 153);
+    text-align: center;
+    position: relative;
+    min-height: 400px;
+    line-height: 400px;
+}
+#platform-about h3 {
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+}
+
+
