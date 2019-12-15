@@ -60,5 +60,15 @@ footer ul li a:hover{
     top: 50%;
     transform: translate(0, -50%);
 }
-
-
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+.row p{
+    font-size: 20px;
+}
+#top-sellers{
+    border-left: 5px solid white;
+}
